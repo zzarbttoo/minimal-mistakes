@@ -107,6 +107,13 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zzarbttoo"
 
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zzarbttoo"
+
 # Reading Files
 include:
   - .htaccess
