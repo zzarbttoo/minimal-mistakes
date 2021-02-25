@@ -2,12 +2,12 @@ posts:
   - title: Content
     children:
       - title: "network"
-        url: /docs/network/
+        url: /posts/network/
       - title: "operation system"
-        url: /docs/operationSystem/
+        url: /posts/operationSystem/
       - title: "spring(java, kotlin)"
-        url: /docs/spring(java,kotlin)/
+        url: /posts/spring(java,kotlin)/
       - title: "docker & kubernetes"
-        url: /docs/docker&kubernetes/
+        url: /posts/docker&kubernetes/
       - title: "project"
-        url: /docs/project/
+        url: /posts/project/
