@@ -99,7 +99,6 @@ author:
   location         : "Seoul, Korea"
   email            : "qodbwls70@naver.com"
   links:
-      url: "mailto:qodbwls70@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zzarbttoo.github.io/"
