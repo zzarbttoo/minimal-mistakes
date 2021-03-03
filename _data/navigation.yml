@@ -4,10 +4,10 @@ posts:
       - title: "network"
         url: /posts/network/
       - title: "operation system"
-        url: /posts/operationSystem/
+        url: /posts/os/
       - title: "spring(java, kotlin)"
-        url: /posts/spring(java,kotlin)/
+        url: /posts/spring/
       - title: "docker & kubernetes"
-        url: /posts/docker&kubernetes/
+        url: /posts/dockub/
       - title: "project"
         url: /posts/project/
